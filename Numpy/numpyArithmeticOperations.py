@@ -1,7 +1,6 @@
 # ARITHMETIC OPERATIONS IN NUMPY ARRAYS
 
 import numpy as np
-
 # Addition
 
 # Code A
